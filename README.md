@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MUHUNTHANE05
+- 👋 Hi, I’m MUHUNTHAN E
 - 👀 I’m interested in learning new things and software developer
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhunthane03@gmail.com 
 
 <!---
